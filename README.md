@@ -25,8 +25,8 @@
   This application is used when the user does not want to type in all the markdowns on github and rely on a consistent templates
 
   
-    ## License
-    This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
+  ## License
+  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
     
 
   ## Contributing
