@@ -1,11 +1,11 @@
 
-  # Ultimate README.md generator
+  # test
 
   [License](https://img.shields.io/badge/License-MIT-brightgreen)
 
   ## Description
 
-  This is an application that creates README files using a template and based on the user inputs
+  test
 
   ## Table of Contents
 
@@ -18,30 +18,30 @@
 
   ## Installation
 
-  First, install all the required packages by running npm i on the terminal, then to start the application, type in node index.js.
+  test
 
   ## Usage
 
-  This application is used when the user does not want to type in all the markdowns on github and rely on a consistent templates
+  test
 
   
-    ## License
-    This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
-    
+  ## License
+  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
+  
 
   ## Contributing
 
-  N/A
+  test
 
   ## Tests
 
-  N/A
+  test
 
   ## Questions
 
   If you have any questions, feel free to reach out via GitHub or email:
 
-  GitHub: [Fenaum](https://github.com/Fenaum)
+  GitHub: [test](https://github.com/test)
 
-  Email: hnguyen4497@outlook.com
+  Email: test@gmail.com
   

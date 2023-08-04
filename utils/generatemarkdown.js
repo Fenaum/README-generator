@@ -17,9 +17,9 @@ function renderLicenseSection(license) {
     return '';
   }
   return `
-    ## License
-    This project is licensed under the ${renderLicenseLink(license)} License.
-    `;
+  ## License
+  This project is licensed under the ${renderLicenseLink(license)} License.
+  `;
 }
 
 function generateMarkdown(data) {
