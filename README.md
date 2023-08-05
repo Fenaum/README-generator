@@ -23,6 +23,7 @@
   ## Usage
 
   This application is used when the user does not want to type in all the markdowns on github and rely on a consistent templates
+  This Application was based on this guide: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
   
   ## License
